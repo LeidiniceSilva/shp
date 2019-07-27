@@ -1,1 +1,0 @@
-http://mapas.cnpm.embrapa.br/geoserver/matopiba/wms?service=WFS&version=1.0.0&request=GetFeature&maxFeatures=90000000&typeName=estados_matopiba&outputFormat=shape-zip&format_options=CHARSET:UTF-8
